@@ -4,6 +4,6 @@ The calculation for the mapping of highlighted text is done through using elemen
 
 ### Preview
 
-<img src="https://github.com/ahoak/d3-samples/blob/master/public/capture.JPG" alt="Sample"  height="100px"/>
+<img src="https://github.com/ahoak/d3-samples/blob/master/public/capture.JPG" alt="Sample"  height="500px"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
