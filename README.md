@@ -15,4 +15,4 @@ https://d3samples.z19.web.core.windows.net/
 npm install
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
