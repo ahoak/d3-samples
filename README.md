@@ -6,4 +6,13 @@ The calculation for the mapping of highlighted text is done through using elemen
 
 <img src="https://github.com/ahoak/d3-samples/blob/master/public/capture.JPG" alt="Sample"  height="500px"/>
 
+The middle connectors are SVG using D3.js while both the source and target text is JSX.
+
+### Static Website
+https://d3samples.z19.web.core.windows.net/
+
+## Run
+npm install
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
